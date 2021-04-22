@@ -1,7 +1,7 @@
 # Movimiento-parabólico
  Prueba técnica movimiento parabólico
 
-versión de Unity: 2019.4.4f1
+Versión de Unity: 2019.4.4f1
 
 Información importante para el uso del programa: 
 
