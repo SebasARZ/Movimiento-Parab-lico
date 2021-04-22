@@ -1,12 +1,12 @@
-# Movimiento-Parabolico
- Prueba tecnica movimiento parabolico
+# Movimiento-parabólico
+ Prueba técnica movimiento parabólico
 
-Version de Unity: 2019.4.4f1
+versión de Unity: 2019.4.4f1
 
 Información importante para el uso del programa: 
 
-Los numeros decimales deben asignarse con ',' y no con '.'
+Los números decimales deben asignarse con ',' y no con '.'
 
-El vector usado para la simulación del pelota se encunetra normalizado para evitar que en valores
+El vector usado para la simulación de la pelota se encuentra normalizado para evitar que en valores
 bajos la simulación no se vea reflejada y en valores altos la pelota salga disparada sin 
-presenciarse el movimiento parabolico. 
+presenciarse el movimiento parabólico.
